@@ -1,0 +1,7 @@
+## Instruções de Uso
+
+### Pré-requisitos:
+- Terraform instalado: [Guia de Instalação do Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli)
+- Credenciais da AWS configuradas. Se necessário, configure suas credenciais da AWS usando:
+  ```bash
+  aws configure
